@@ -35,12 +35,6 @@ This project demonstrates an object detection method using various edge detectio
 - OpenCV
 - NumPy
 
-## Directory Structure
-
-- `object_detection.py`: Contains the object detection code.
-- `images/`: Directory to store input template and test images.
-- `results/`: Directory to save processed images and similarity scores.
-
 ## Results
 
 The results include:
